@@ -1,0 +1,12 @@
+canvas {
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+    background-color: #f0f0f0;
+}
+
+#scoreBoard {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
